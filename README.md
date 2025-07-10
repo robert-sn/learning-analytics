@@ -1,4 +1,3 @@
-
 # Chicago crimes
 
 This project uses publicly available chicago crimes data from Google BigQuery to perform time-series analysis, data visualization, and predictive modeling using Apache Spark and machine learning regressors.
@@ -73,6 +72,7 @@ Decision Tree achieved the highest R² (97.61%) , indicating superior predictive
 - **PySpark**: Facilitates distributed data processing and machine learning.
 
 ## License
+
 This project is open-source and available under the [MIT License](../LICENSE).
 
 ## Contribution
