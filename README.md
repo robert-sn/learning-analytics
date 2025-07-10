@@ -60,11 +60,11 @@ This project utilizes a **public Google BigQuery dataset** that includes:
 ## Results
 The following table summarizes the performance of different regression models used in the project:
 
-| Model                  | R² (%)      | RMSE     | MSE          |
-|------------------------|-------------|----------|--------------|
-| Linear Regression      | 0.8955      | 8736.14  | 76320207.64  |
-| Decision Tree          | 0.9761      | 4173.84  | 17420916.63  |
-| Random Forest          | 0.9759      | 4195.08  | 17598683.64  |
+| Model                  | R² (%) | RMSE | MSE  |
+|------------------------|--------|------|------|
+| Linear Regression      | TBC    | TBC  | TBC  |
+| Decision Tree          | TBC    | TBC  | TBC  |
+| Random Forest          | TBC    | TBC  | TBC  |
 
 Decision Tree achieved the highest R² (97.61%) , indicating superior predictive performance compared to other models.
 
