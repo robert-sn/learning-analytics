@@ -1,7 +1,7 @@
 
-# Chicago crimes
+# COVID-19 Evolution public data
 
-This project uses publicly available chicago crimes data from Google BigQuery to perform time-series analysis, data visualization, and predictive modeling using Apache Spark and machine learning regressors.
+This project uses publicly available COVID-19 data from Google BigQuery to perform time-series analysis, data visualization, and predictive modeling using Apache Spark and machine learning regressors.
 
 ## Features
 - **Big Data Integration**: Uses BigQuery to access and query large datasets directly.
